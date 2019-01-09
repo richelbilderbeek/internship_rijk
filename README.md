@@ -16,7 +16,7 @@ Internship of Rijk at the Rijksuniversiteit (no pun intended) Groningen.
 Time|What|Where
 ---|---|---
 9:00|Briefing Richel|Room 5172.579
-9:30-10:11|Meeting 1: [your name here]|Room [your room here]
+9:30-11:00|Meeting 1: [your name here]|Room [your room here]
 11:00-12:30|Meeting 2: [your name here]|Room [your room here]
 12:30-13:00|Lunch|Big table at 5th floor
 13:00-14:30|Meeting 3: [your name here]|Room [your room here]
