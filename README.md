@@ -30,8 +30,8 @@ Time|What|Where
 
 Time|What|Where
 ---|---|---
-9:30-11:00|Meeting 5: [hopefully Pedro here]|Room 5172.0547 [iff Pedro]
-11:00-12:30|Meeting 6: Pedro Neves/Franjo Weissing|Room 5172.0547 [iff Pedro]
+9:30-11:00|Meeting 5: Pedro Neves|Room 5172.0547
+11:00-12:30|Meeting 6: Franjo Weissing|Room 5172.05?? [Franjo's office]
 12:30-13:00|Lunch|Big table at 5th floor
 13:00-14:30|Meeting 7: Nicoleta Tataru|Room 5172.0547
 14:30-16:00|Meeting 8: Anna Wolters|Room 5172.0580
