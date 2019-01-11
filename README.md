@@ -23,7 +23,7 @@ Time|What|Where
 11:00-12:30|Meeting 2: Christoph Netz|Room 5172.0585
 12:30-13:00|Lunch|Big table at 5th floor
 13:00-14:30|Meeting 3: ?Pratik Gupte|Room 5172.0585
-14:30-16:00|Meeting 4: ?Hanno Hildenbrand (e.g. hardware acceleration)|Room [Richel will find out]
+14:30-16:00|Meeting 4: ?Hanno Hildenbrand (e.g. hardware acceleration)|Room 5172.0555a
 16:00-17:00|Evaluation with Richel, write report|Room 5172.579
 
 ## Friday January 18th 2019
@@ -33,6 +33,6 @@ Time|What|Where
 9:30-11:00|Meeting 5: [hopefully Pedro here]|Room 5172.0547 [iff Pedro]
 11:00-12:30|Meeting 6: Pedro Neves/Franjo Weissing|Room 5172.0547 [iff Pedro]
 12:30-13:00|Lunch|Big table at 5th floor
-13:00-14:30|Meeting 7: Nicoleta|Room 5172.0547
+13:00-14:30|Meeting 7: Nicoleta Tataru|Room 5172.0547
 14:30-16:00|Meeting 8: Anna Wolters|Room 5172.0580
 16:00-17:00|Evaluation with Richel, write report|Room 5172.579
