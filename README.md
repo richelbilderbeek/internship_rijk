@@ -19,10 +19,10 @@ Internship of Rijk at the Rijksuniversiteit (no pun intended) Groningen.
 Time|What|Where
 ---|---|---
 9:00|Briefing Richel|Room 5172.579
-9:30-11:00|Meeting 1: [your name here]|Room [your room here]
-11:00-12:30|Meeting 2: [your name here]|Room [your room here]
+9:30-11:00|Meeting 1: Raphael Scherrer|Room [your room here]
+11:00-12:30|Meeting 2: Christoph Netz|Room [your room here]
 12:30-13:00|Lunch|Big table at 5th floor
-13:00-14:30|Meeting 3: [your name here]|Room [your room here]
+13:00-14:30|Meeting 3: ?Pratik Gupte|Room [your room here]
 14:30-16:00|Meeting 4: ?Hanno Hildenbrand (e.g. hardware acceleration)|Room [Richel will find out]
 16:00-17:00|Evaluation with Richel, write report|Room 5172.579
 
@@ -30,9 +30,9 @@ Time|What|Where
 
 Time|What|Where
 ---|---|---
-9:30-11:00|Meeting 5: [your name here]|Room [your room here]
-11:00-12:30|Meeting 6: Pedro Neves|Room 5172.0547
+9:30-11:00|Meeting 5: ?hopefully Pedro here|Room [your room here]
+11:00-12:30|Meeting 6: Pedro Neves/Franjo Weissing|Room 5172.0547
 12:30-13:00|Lunch|Big table at 5th floor
-13:00-14:30|Meeting 7: [your name here]|Room [your room here]
-14:30-16:00|Meeting 8: [your name here]|Room [your room here]
+13:00-14:30|Meeting 7: Nicoleta|Room [your room here]
+14:30-16:00|Meeting 8: Anna Wolters|Room [your room here]
 16:00-17:00|Evaluation with Richel, write report|Room 5172.579
