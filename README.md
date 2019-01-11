@@ -28,7 +28,7 @@ Time|What|Where
 Time|What|Where
 ---|---|---
 9:30-11:00|Meeting 5: [your name here]|Room [your room here]
-11:00-12:30|Meeting 6: [your name here]|Room [your room here]
+11:00-12:30|Meeting 6: Pedro Neves|Room 5172.0547
 12:30-13:00|Lunch|Big table at 5th floor
 13:00-14:30|Meeting 7: [your name here]|Room [your room here]
 14:30-16:00|Meeting 8: [your name here]|Room [your room here]
