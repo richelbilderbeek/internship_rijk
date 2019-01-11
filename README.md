@@ -22,8 +22,8 @@ Time|What|Where
 9:30-11:00|Meeting 1: [your name here]|Room [your room here]
 11:00-12:30|Meeting 2: [your name here]|Room [your room here]
 12:30-13:00|Lunch|Big table at 5th floor
-13:00-14:30|Meeting 3: ?Hanno Hildenbrand (e.g. hardware acceleration)|Room [Richel will find out]
-14:30-16:00|Meeting 4: [your name here]|Room [your room here]
+13:00-14:30|Meeting 3: [your name here]|Room [your room here]
+14:30-16:00|Meeting 4: ?Hanno Hildenbrand (e.g. hardware acceleration)|Room [Richel will find out]
 16:00-17:00|Evaluation with Richel, write report|Room 5172.579
 
 ## Friday January 18th 2019
