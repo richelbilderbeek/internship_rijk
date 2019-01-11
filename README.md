@@ -5,7 +5,10 @@ Internship of Rijk at the Rijksuniversiteit (no pun intended) Groningen.
  * Goal: show how working at the university is 
    like, so Rijk can better decide on his future career
 
- * How: tell him about and show him your work in one of the time slots
+ * How: tell him about and show him your work in one of the time slots.
+   Topics: your scientific work, your favorite programming language(s),
+   writing computer simulations, doing data analysis, plotting results,
+   working on your favorite computer cluster
 
  * Who is Rijk: he is a ?16 year old scholar, interested in working with computers,
    and a member of the programming team called 
