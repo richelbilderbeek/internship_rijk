@@ -17,6 +17,9 @@ Internship of Rijk at the Rijksuniversiteit (no pun intended) Groningen.
    and a member of the programming team called 
    [Team Octane](https://github.com/richelbilderbeek/djog_unos_2018)
 
+ * Deliverable: Rijk will write a report what we do with computers, as well
+   as a summary of what each person is working on
+
 ## Thursday January 17th 2019
 
 Time|What|Where
