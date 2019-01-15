@@ -26,7 +26,7 @@ Time|What|Where
 ---|---|---
 9:00|Briefing Richel|Room 5172.579
 9:30-11:00|Meeting 1: Raphael Scherrer|Room 5172.0547
-11:00-12:30|Meeting 2: Christoph Netz|Room 5172.0585
+11:00-12:30|Meeting 2: Theo Pannetier|Room 5172.0547
 12:30-13:00|Lunch|Big table at 5th floor
 13:00-14:30|Meeting 3: Pratik Gupte|Room 5172.0585
 14:30-16:00|Meeting 4: Hanno Hildenbrand (e.g. hardware acceleration)|Room 5172.0555a
