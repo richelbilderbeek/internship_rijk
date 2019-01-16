@@ -24,7 +24,7 @@ Internship of Rijk at the Rijksuniversiteit (no pun intended) Groningen.
 
 Time|What|Where
 ---|---|---
-9:00|Briefing Richel|Room 5172.579
+9:00|Briefing Richel|Room 5172.579, a room in the Linnaeusborg at the Zernike campus
 9:30-11:00|Meeting 1: Raphael Scherrer|Room 5172.0547
 11:00-12:30|Meeting 2: Theo Pannetier|Room 5172.0547
 12:30-13:00|Lunch|Big table at 5th floor
