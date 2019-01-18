@@ -12,7 +12,7 @@ Internship of Rijk at the Rijksuniversiteit (no pun intended) Groningen.
    software development, on-line collaboration, continuous integration
    and all other things on our beloved zeroes and ones 
 
- * Who is Rijk: he is an (approximately) 16 year old scholar, 
+ * Who is Rijk: he is a 14 year old scholar, 
    interested in working with computers,
    and a member of the programming team called 
    [Team Octane](https://github.com/richelbilderbeek/djog_unos_2018)
